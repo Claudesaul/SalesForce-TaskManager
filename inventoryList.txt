@@ -1,0 +1,16 @@
+FOLLET Cleaner,Ice Machine Sanitizer,37.50,40, Ice Maker
+FOLLET Padding, Ice Machine Pad, 12.99, 20, Ice Maker
+Follet Panels, Ice Machine Panels, 39.99, 10, Ice Maker
+Avanti Touch Screen Board,Replacement Touchscreen Board,12.99,30, Kiosk
+Avanti Touch Screen,Replacement TouchScreen Display,450.34,40, Kiosk
+HID Fingerprint Reader,FingerPrint Reader for Kiosks,89.99,20, Kiosk
+Dell OptiPlex 3080, Micro Computer For Kiosks,899.99,8, Kiosk
+Dell OptiPlex 3020, Micro Computer For Kiosks,699.99,9, Kiosk
+Espresso Guru Sanitizer, Coffee Machine Cleaner, 29.99, 10, Coffee Machine
+Fracino Motor, Coffee Machine Grinder, 99.99, 8, Coffee Machine
+Apetit Handle, Coffee Handler, 39.99, 12, Coffee Machine
+QBD Shelf, Cooler Shelf, 10.99, 85, Cooler
+QBD Compressor, Cooler Compressor, 499.99, 7, Cooler
+QBD Wheels, Cooler Wheels, 10.99, 8, Cooler
+Alpine Tips, Water Dispenser Tips, 4.99, 9, Water Dispenser
+Apline Switch, Water Dispenser Tips, 10.99, 5, Water Dispenser

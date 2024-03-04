@@ -1,0 +1,7 @@
+Clark Construction,7900 Westpark Dr, McLean, VA 22102,(301) 272-8100,8AM-5PM,38.924759,-77.217178
+Palantir Technologies,1025 Thomas Jefferson Street Northwest Suite 600, Washington, DC 20007,(202) 765-8197,7AM-4PM,38.903240,-77.059700
+Blue Cross,750 9th Street Northwest, Washington, DC 20001,(312) 386-3315, 8AM-5PM,38.899390,-77.024380
+MicroStradgedy,1850 Towers Crescent Plaza, Tysons Corner, VA 22182, (301) 787-0394,9AM-6PM,38.915840,-77.220810
+Millipore Sigma,9800 Medical Center Drive, Rockville, MD 20850,(301) 610-2601,7AM-4:30PM,39.095610,-77.197190
+CarFax,5860 Trinity Parkway Suite 600, Centreville, VA 20120,(301) 787-0394,8AM-3:30PM,38.933759,-76.725717
+Cushman Wakefield,4114 Legato Road, Fairfax, VA 22033,(703) 935-1030,6AM-2PM,38.863229,-77.363223

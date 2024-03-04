@@ -1,0 +1,50 @@
+Follet,15 Series Ice Maker,Ice Maker,AB-C123,Good,1
+Follet,7 Series Ice Maker,Ice Maker,XYZ4-56,Good,2
+Avanti,Executive Kiosk,Kiosk,123-ABC,Good,3
+365,CountertopKiosk,Kiosk,456XYZ,Good,4
+Nespresso,Momento 200,Coffee Machine,78-9DEF,Good,5
+Newco,Fresh Cup,Coffee Machine,DE-F7-89,Good,6
+Dejong Duke,Virtu,Coffee Machine,321G-HI,Good,7
+CWJ,Nitro Kegarator,Kegarator,654-JKL,Good,1
+Bevi,Countertop Dispenser,Water Dispenser,93-GH67,Good,2
+Imbera,Drink Cooler,Cooler,MNO2-42987,Good,3
+Minus Forty,Cold Food Cooler,Cooler,JK-L654,Good,4
+Follet,15 Series Ice Maker,Ice Maker,AB-123XY,Good,5
+CWJ,Nitro Kegarator,Kegarator,789-JKL0,Good,6
+Nespresso,Momento 200,Coffee Machine,DEF-456GH,Good,7
+Newco,Fresh Cup,Coffee Machine,GHI-789JK,Good,1
+Avanti,Executive Kiosk,Kiosk,123-XYZ,Good,2
+365,CountertopKiosk,Kiosk,XYZ-456,Good,7
+Imbera,Drink Cooler,Cooler,MNO-21PQR,Good,5
+Follet,7 Series Ice Maker,Ice Maker,XYZ-987AB,Good,6
+Dejong Duke,Virtu,Coffee Machine,321-GH1I,Good,7
+Bevi,Countertop Dispenser,Water Dispenser,GH6-93KL,Good,1
+Minus Forty,Cold Food Cooler,Cooler,JK-L98MNO,Good,2
+CWJ,Nitro Kegarator,Kegarator,987-JKLMN,Good,3
+Newco,Fresh Cup,Coffee Machine,LMN-987OP,Good,4
+Dejong Duke,Virtu,Coffee Machine,321-OPQGH,Good,5
+Follet,15 Series Ice Maker,Ice Maker,OPQ-ABCXY,Good,6
+Nespresso,Momento 200,Coffee Machine,PQR-DEFGH,Good,7
+Bevi,Countertop Dispenser,Water Dispenser,RST-93GHKL,Good,1
+Imbera,Drink Cooler,Cooler,JKL-MNOPQR,Good,4
+Minus Forty, Cold Food Cooler, Cooler, KSH-908, Good, 2
+Follet,7 Series Ice Maker,Ice Maker,VWX-987AB,Good,3
+CWJ,Nitro Kegarator,Kegarator,WXY-987JKL,Good,4
+Dejong Duke,Virtu,Coffee Machine,ZAB-321GH1I,Good,5
+Newco,Fresh Cup,Coffee Machine,345-DEF789GH,Good,6
+Nespresso,Momento 200,Coffee Machine,ABC-78DEF9,Good,7
+Avanti,Executive Kiosk,Kiosk,JKL-123XYZ,Good,1
+Bevi,Countertop Dispenser,Water Dispenser,WXY-93GHKL,Good,5
+Imbera,Drink Cooler,Cooler,JKL-21MNOPQR,Good,6
+Minus Forty,Cold Food Cooler,Cooler,MNO-98JKL98N,Good,7
+Follet,15 Series Ice Maker,Ice Maker,PQR-ABCXY,Good,2
+CWJ,Nitro Kegarator,Kegarator,RST-987JKLMN,Good,3
+Newco,Fresh Cup,Coffee Machine,TUV-LMN987OP,Good,4
+Dejong Duke,Virtu,Coffee Machine,VWX-321OPQGH,Good,7
+365,CountertopKiosk,Kiosk,WXY-XYZ,Good,5
+Nespresso,Momento 200,Coffee Machine,ABC-VWXDEFGH,Good,2
+Avanti,Executive Kiosk,Kiosk,TUV-123XYZ,Good,6
+Follet,7 Series Ice Maker,Ice Maker,WXY-VWX987AB,Good,4
+Bevi,Countertop Dispenser,Water Dispenser,JKL-RST93GHKL,Good,7
+Imbera,Drink Cooler,Cooler,JKL-21NOPQR,Good,1
+Minus Forty,Cold Food Cooler,Cooler,PQR-MNO98JKL,Good,5
